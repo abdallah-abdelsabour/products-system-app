@@ -1,0 +1,18 @@
+[
+  {
+    "id": "54141646",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  { "title": "", "imageUrl": "", "description": "htfytfyu", "price": "-0.04" },
+  {
+    "id": "64654654165",
+
+    "title": "Death on the Nile",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNQMl3cVHps7Yz-zD47ocCJQp1EPefQ0qbyhPXjZVxYNnNWnsR",
+    "description": "Poirot sul Nilo by Agatha Christie - Goodreads",
+    "price": "10"
+  }
+]
